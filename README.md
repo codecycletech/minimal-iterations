@@ -1,4 +1,4 @@
-Jay Ganesha & Jau bholenath 
+Jay Ganesha & Jay bholenath 
 
 # About
-This repo cotains code for jouney of becoming developer 
+This repo contains code for my journey of becoming developer.
